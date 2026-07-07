@@ -14,12 +14,6 @@ Acredito que uma carreira bem construída começa pelo autoconhecimento, por esc
 - Preparação para entrevistas de emprego
 - Desenvolvimento profissional
 
-## 🎓 Formação
-
-MBA em Gestão de Pessoas e Novas Tecnologias.
-
-## 🌱 O que você encontrará aqui
-
 Neste espaço compartilho materiais, modelos, guias e recursos voltados ao desenvolvimento de carreira, além de projetos e conteúdos que podem auxiliar profissionais em diferentes momentos da vida profissional.
 
 ## 📫 Vamos conversar?
